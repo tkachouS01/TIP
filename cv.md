@@ -26,3 +26,15 @@ Attention to detail. Unsociable. I want to learn new technologies that are inter
 ## *Code example*
 `
 import React from 'react';
+
+## *Courses* 
+* IT-KAMASUTRA "React JS - путь самурая 1.0" (React, Redux, архитектура и т.д.)
+* Фрілансер по життю (JS, HTML, CSS)
+* Ulbi TV (JS, React) 
+* #SimpleCode "C# УРОКИ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ"
+* Школа itProger / Программирование "Изучение C# для начинающих / Урок #1 – Введение в язык C# с нуля"
+
+## *English*
+English level A1
+
+![Здесь должно было быть моё фото](https://sun9-88.userapi.com/impg/bY5LlKU5dRhAvWBuhAPt5WwZufw3DcyRwRS0sA/x8GbqOjP3Yw.jpg?size=480x360&quality=96&sign=14b0ae6652d85474f8f9d86c5b494ba7&c_uniq_tag=G2yDNqNcXYYxN26s4fyQJ9-GaAuZA4yUHhYEtuPZrLc&type=album)
