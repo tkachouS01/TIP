@@ -10,3 +10,19 @@
 
 ## *About me*
 Attention to detail. Unsociable. I want to learn new technologies that are interesting to me. I can be a little stupid in a simple question.
+
+## *Skills*
+* HTML
+* CSS + SCSS
+* JavaScript
+* React, Redux, React-Redux, axios, redux-form, react-router-dom, redux-thunk, reselect
+* C#
+* Comand line
+* C++
+* R
+* Git
+* Java
+
+## *Code example*
+`
+import React from 'react';
